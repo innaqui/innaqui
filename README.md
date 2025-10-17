@@ -12,9 +12,9 @@ Turning raw data into <b>actionable insights</b> with Python, SQL, and modern BI
 ## 👨‍💻 About Me  
 💡 Passionate about data, analytics, and transforming information into meaningful business insights.  
 🧠 Former customer service representative at **PNC Bank**, where I learned how to solve complex problems and communicate clearly.  
+🌍 Studied **English in Ireland for 2 years** and earned a **C1 Certificate** in Limerick City.  
 📊 Experienced in **data cleaning, visualization, A/B testing, and BI dashboards**.  
 🚀 Focused on building **interactive dashboards, automated reports, and data experiments** that support smart decision-making.  
-🌍 Studied English for **2 years in Ireland** and earned a **C1 English Certificate** in **Limerick City, Ireland**.
 
 ---
 
@@ -32,19 +32,6 @@ Turning raw data into <b>actionable insights</b> with Python, SQL, and modern BI
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
 </p>
 
-### 🔢 Most Used Languages (manual)
-<div align="center" style="max-width:500px;margin:0 auto;">
-  <div style="text-align:left;font-weight:600;margin-bottom:6px;">Python — 63%</div>
-  <div style="background:#e5e7eb;border-radius:8px;overflow:hidden;height:14px;">
-    <div style="width:63%;height:14px;background:#3776AB;"></div>
-  </div>
-  <div style="text-align:left;font-weight:600;margin:10px 0 6px;">Jupyter Notebook — 37%</div>
-  <div style="background:#e5e7eb;border-radius:8px;overflow:hidden;height:14px;">
-    <div style="width:37%;height:14px;background:#f4b400;"></div>
-  </div>
-  <sub>Note: Manual breakdown provided by Erick.</sub>
-</div>
-
 ---
 
 ## 📚 Education  
@@ -52,7 +39,8 @@ Turning raw data into <b>actionable insights</b> with Python, SQL, and modern BI
 Gained hands-on experience in **Python, SQL, Tableau, Power BI**, and **statistics**.  
 Developed end-to-end projects involving **data visualization, hypothesis testing, and A/B experiments**.  
 
-🇮🇪 **English Studies in Ireland (2 years)** — **C1 English Certificate**, Limerick City, Ireland.
+🇮🇪 **English Studies – Limerick City, Ireland (C1 Certificate)**  
+Completed 2 years of English studies focused on communication, writing, and professional fluency.  
 
 ---
 
@@ -63,7 +51,7 @@ Explored and visualized used vehicle data with Streamlit and Plotly. Built inter
 🔗 [GitHub Repository](https://github.com/innaqui/)
 
 🧪 **A/B Testing – E-commerce Conversion**  
-Designed and analyzed an A/A/B experiment to evaluate conversion uplift and significance.  
+Designed and analyzed an A/A/B experiment to evaluate conversion uplift and statistical significance.  
 ➡️ *Stack:* Python, pandas, scipy, visualization  
 🔗 [GitHub Repository](https://github.com/innaqui/)
 
@@ -87,8 +75,8 @@ Analyzed user retention and churn drivers using logistic regression and cohort a
   <a href="https://www.linkedin.com/in/erick-tolentino-6309a626a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Erick_Tolentino-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:DMC.ERICK79@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail&logoColor=white" />
+  <a href="mailto:dmc.erick79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dmc.erick79@gmail.com-red?logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -96,4 +84,3 @@ Analyzed user retention and churn drivers using logistic regression and cohort a
 
 ⭐ *If you like my work, feel free to star a repo or reach out for collaboration!*  
 Thanks for visiting! 🙌
-
