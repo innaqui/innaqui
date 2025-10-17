@@ -14,6 +14,7 @@ Turning raw data into <b>actionable insights</b> with Python, SQL, and modern BI
 🧠 Former customer service representative at **PNC Bank**, where I learned how to solve complex problems and communicate clearly.  
 📊 Experienced in **data cleaning, visualization, A/B testing, and BI dashboards**.  
 🚀 Focused on building **interactive dashboards, automated reports, and data experiments** that support smart decision-making.  
+🌍 Studied English for **2 years in Ireland** and earned a **C1 English Certificate** in **Limerick City, Ireland**.
 
 ---
 
@@ -31,12 +32,27 @@ Turning raw data into <b>actionable insights</b> with Python, SQL, and modern BI
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
 </p>
 
+### 🔢 Most Used Languages (manual)
+<div align="center" style="max-width:500px;margin:0 auto;">
+  <div style="text-align:left;font-weight:600;margin-bottom:6px;">Python — 63%</div>
+  <div style="background:#e5e7eb;border-radius:8px;overflow:hidden;height:14px;">
+    <div style="width:63%;height:14px;background:#3776AB;"></div>
+  </div>
+  <div style="text-align:left;font-weight:600;margin:10px 0 6px;">Jupyter Notebook — 37%</div>
+  <div style="background:#e5e7eb;border-radius:8px;overflow:hidden;height:14px;">
+    <div style="width:37%;height:14px;background:#f4b400;"></div>
+  </div>
+  <sub>Note: Manual breakdown provided by Erick.</sub>
+</div>
+
 ---
 
 ## 📚 Education  
 🎓 **TripleTen – Data Analytics Certificate (2024–2025)**  
 Gained hands-on experience in **Python, SQL, Tableau, Power BI**, and **statistics**.  
-Developed end-to-end projects involving **data visualization, hypothesis testing, and A/B experiments**.
+Developed end-to-end projects involving **data visualization, hypothesis testing, and A/B experiments**.  
+
+🇮🇪 **English Studies in Ireland (2 years)** — **C1 English Certificate**, Limerick City, Ireland.
 
 ---
 
@@ -68,10 +84,10 @@ Analyzed user retention and churn drivers using logistic regression and cohort a
 
 ## 🤝 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/ericktolentino" target="_blank">
+  <a href="https://www.linkedin.com/in/erick-tolentino-6309a626a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Erick_Tolentino-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:DMC.ERICK79@GMAIL.COM">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail&logoColor=white" />
   </a>
 </p>
