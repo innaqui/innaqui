@@ -39,12 +39,10 @@ Projects in Python, SQL, Tableau/Power BI, statistics, visualization, hypothesis
 
 ## 🚀 Highlight projects
 
-> 🔗 Replace the links below with your public repos/dashboards (GitHub/Tableau/Render) when ready.
-
 **Vehicles EDA Dashboard**
 Exploratory analysis of used vehicles dataset. Built an interactive Streamlit app with filters (price, year, condition) and correlation insights to support pricing decisions.
 *Stack:* Python, pandas, plotly‑express, Streamlit
-**Repo/App:** `[GitHub](https://github.com/innaqui/ )` • `[Live demo](https://…)`
+**Repo/App:** `[GitHub](https://github.com/innaqui/ )` • 
 
 **A/B Testing – E‑commerce Conversion**
 Designed A/A/B experiment, validated assumptions, ran hypothesis tests (α=0.05), quantified lift and variance stability, and shipped recommendations.
