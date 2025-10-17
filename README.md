@@ -20,16 +20,16 @@ Turning raw data into <b>actionable insights</b> with Python, SQL, and modern BI
 
 ## 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dash-008DE4?logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="40" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white" height="40" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" height="40" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" height="40" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" height="40" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="40" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" height="40" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" height="40" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/Dash-008DE4?logo=plotly&logoColor=white" height="40" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" height="40" style="margin: 8px;"/>
 </p>
 
 ---
@@ -73,10 +73,10 @@ Analyzed user retention and churn drivers using logistic regression and cohort a
 ## 🤝 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/erick-tolentino-6309a626a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Erick_Tolentino-blue?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Erick_Tolentino-blue?logo=linkedin&logoColor=white" height="35" style="margin: 6px;"/>
   </a>
   <a href="mailto:dmc.erick79@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dmc.erick79@gmail.com-red?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-dmc.erick79@gmail.com-red?logo=gmail&logoColor=white" height="35" style="margin: 6px;"/>
   </a>
 </p>
 
